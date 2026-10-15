@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Mobile_AddToCart_Positive_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>638e3173-3e06-4fd7-8ffc-629c814c4f0c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Mobile_SauceLabs</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <numberOfRerun>3</numberOfRerun>
+   <orchestration>CLASSIC</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c93614ad-8883-4dc2-b72c-83379ecd41c3</testSuiteGuid>
+   <testCaseLink>
+      <guid>7e3196de-e40f-4d26-8469-78b8c3e1584f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Positive/TC_Mobile_Login_Positive_001</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e7a1cbff-1e51-4df0-a67a-360b652e8363</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Negative/TC_Mobile_Login_Negative_002</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>db87ba88-734d-401b-9e56-b050f72e36a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7d44cf4b-622a-4b48-91da-9ad88e13eb80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ab9317d4-bf30-4da1-8b7d-b949b1afaa35</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e70bfee3-9f0b-4621-9fe8-356141f4afd0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AddProductToCart/Positive/TC_Mobile_AddToCart_Positive_003</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

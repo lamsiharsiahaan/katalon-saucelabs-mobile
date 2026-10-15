@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Mobile_Login_Positive_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2c7191b-f470-4575-a8af-82c34fce31b2</testCaseGuid>
+</TestCaseEntity>
